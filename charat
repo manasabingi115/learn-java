@@ -1,0 +1,6 @@
+public class MyClass(){
+    public static void main(String args[]){
+        String str ="biginnersbook";
+        System.out.println("str charAt 2" +str.charAt(2));
+    }
+}
