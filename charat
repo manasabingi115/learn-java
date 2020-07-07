@@ -4,3 +4,10 @@ public class MyClass{
         System.out.println("str charAt 2" +str.charAt(2));
     }
 }
+public class MyClass {
+    public static void main(String args[]) {
+      String str1 = "hancy";
+      String str2 = "honey";
+      System.out.println("strs are equal " + str1.equals(str2));
+    }
+}
