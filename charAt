@@ -40,3 +40,16 @@ output:strs are compareTo-14
     
 }
 output:strs are compareTo iglore the case-14
+
+
+9 public class MyClass{
+    public static void main(String args[]){
+        String str=new String("    how are you");
+        System.out.println("String before trim:"+str);
+        System.out.println("String after trim:"+str.trim());
+        
+    }
+    
+}
+String before trim:    how are you
+String after trim:how are you
