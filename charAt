@@ -1,10 +1,11 @@
-public class MyClass{
+1 public class MyClass{
     public static void main(String args[]){
         String str ="biginnersbook";
         System.out.println("str charAt 2" +str.charAt(2));
     }
 }
-public class MyClass {
+
+2 public class MyClass {
     public static void main(String args[]) {
       String str1 = "hancy";
       String str2 = "honey";
@@ -12,7 +13,7 @@ public class MyClass {
     }
 }
 
-public class MyClass{
+3 public class MyClass{
     public static void main(String args[]){
         String str1="hancy";
         String str2="honey";
