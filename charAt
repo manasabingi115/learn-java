@@ -29,3 +29,14 @@
     }
 }
 output:strs are compareTo-14
+
+
+5 public class MyClass{
+    public static void main(String args[]){
+        String str1="hancy";
+        String str2="honey";
+        System.out.println("strs are compareTo iglore the case"+str1.compareToIgnoreCase(str2));
+    }
+    
+}
+output:strs are compareTo iglore the case-14
