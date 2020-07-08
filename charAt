@@ -20,3 +20,11 @@
         System.out.println("strs are equal case insensitive"+str1.equalsIgnoreCase(str2));
     }
 }
+
+4 public class MyClass{
+    public static void main(String args[]){
+        String str1="hancy";
+        String str2="honey";
+        System.out.println("strs are compareTo"+str1.compareTo(str2));
+    }
+}
