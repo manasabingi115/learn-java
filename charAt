@@ -28,3 +28,4 @@
         System.out.println("strs are compareTo"+str1.compareTo(str2));
     }
 }
+output:strs are compareTo-14
